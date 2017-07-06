@@ -28,10 +28,10 @@ Results:
 
 # Code and Data Structure
 
-test
-##Code Structure
 
-<img src="./images/code_structure.png" width="300">
+###Code Structure
+
+<img src="./images/code_structure.png" width="600">
 
 The main process loads batch_log and stream_log files. 
 For each event it calls the function udpate_data() to update the shared global data.
