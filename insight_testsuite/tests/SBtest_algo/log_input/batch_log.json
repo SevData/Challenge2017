@@ -1,0 +1,16 @@
+{"D":"1", "T":"50"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "2"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "3", "id2": "2"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "2", "id2": "4"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "4"}
+{"event_type":"unfriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "4"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "5", "amount": "10067.99"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "5"}
+{"event_type":"unfriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "5"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "5"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "1", "id2": "6"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "2", "id2": "6"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "4", "id2": "6"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "1", "amount": "47.99"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "1", "amount": "27.99"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "1", "amount": "67.99"}
