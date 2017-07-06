@@ -117,7 +117,7 @@ Overall, the whole process takes 0.89 seconds (after optimization) to process th
 
 As we can see there is still room for improvement, especially on the T Latest purchase collection.
 
-## Algorithm to build the D user network
+## Algorithm to build the Dth-degree user network
 
 I coded a simple version of Breadth-first search algo, that stops after the Dth degree and avoids processing the same user twice.
 It is run for each purchase in the stream log. If it was called at each friendship update, it would require to recompute and store the D-th degree network for all users.
