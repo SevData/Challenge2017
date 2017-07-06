@@ -29,7 +29,7 @@ Results:
 # Code and Data Structure
 
 
-###Code Structure
+## Code Structure
 
 <img src="./images/code_structure.png" width="600">
 
@@ -60,7 +60,7 @@ Steps:
 
 
 
-##Data Structure
+## Data Structure
 
 In order to make it simple and also simulate a shared database, the data is stored in 2 global variables :
 - social_data
